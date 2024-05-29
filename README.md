@@ -1,0 +1,1 @@
+This study uses sentiment analysis and topic modelling on reviews of 3 major printer brands (HP, Epson and Canon) on Amazon to extract valuable insights with the goal of helping HP regain its status as a market leader in printer products.
